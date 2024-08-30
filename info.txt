@@ -1,4 +1,4 @@
-Repository link: https://github.com/NierNero/SHEESH-FLORES-ELEC-4.git
-Name: Reyzl Tom B. Flores
+Repository link: https://github.com/NierNero/MijaresElec4.git
+Name: Luisse Angelo V. Mijares
 Capstone Group Name: Team Hai Tech
-Capstone UI Number of pages: 5
+Capstone UI Number of pages: 4
